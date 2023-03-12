@@ -1,2 +1,2 @@
 # react-carousel
-#vpequeno carrosel feito em react " Aprender Fazendo "
+#Pequeno carrosel feito em react " Aprender Fazendo "
